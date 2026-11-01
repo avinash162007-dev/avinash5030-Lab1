@@ -1,5 +1,5 @@
 {
-  "name": "manivenkat5003_lab1",
+  "name": "avinash5030-lab1",
   "version": "1.0.0",
   "description": "Lab 1 - Node.js and Express Server",
   "main": "server.js",
@@ -12,7 +12,7 @@
     "express",
     "lab1"
   ],
-  "author": "Mani Venkat Sai Sankar Naidu",
+  "author": "Avinash Boodida",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

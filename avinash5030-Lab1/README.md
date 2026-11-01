@@ -1,11 +1,11 @@
 # Lab 1: Node.js and Express Server
 
-**Deployment URL:** https://manivenkat5003-lab1.onrender.com/
+**Deployment URL:** https://avinash5030-lab1.onrender.com/
 
 ## 1. Student Details
 
-- **Name:** Mani Venkat Sai Sankar Naidu
-- **Registration Number:** 252U1R5003
+- **Name:** Avinash Boodida
+- **Registration Number:** 252U1R5030
 - **Section:** 106 AIDE-2A
 - **Subject:** Backend Development Fundamentals
 - **Lab:** Lab 1 — Node.js and Express Server
@@ -27,7 +27,7 @@ The objective of this lab is to understand the fundamentals of Node.js and Expre
 ## 4. Project Structure
 
 ```text
-manivenkat5003_lab1/
+avinash5030-Lab1/
 │
 ├── node_modules/
 ├── screenshots/
@@ -61,13 +61,13 @@ npm -v
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Mandomanyt/manivenkat5003_lab1.git
+git clone https://github.com/avinash162007-dev/avinash5030-Lab1.git
 ```
 
 ### Step 2: Navigate to the Project Directory
 
 ```bash
-cd manivenkat5003_lab1/manivenkat5003_lab1
+cd avinash5030-Lab1
 ```
 
 ### Step 3: Install Dependencies
@@ -138,8 +138,8 @@ Expected response:
 
 ```json
 {
-  "name": "Mani Venkat Sai Sankar Naidu",
-  "registrationNumber": "252U1R5003",
+  "name": "Avinash Boodida",
+  "registrationNumber": "252U1R5030",
   "section": "106 AIDE-2A"
 }
 ```
@@ -261,8 +261,8 @@ Overall, this lab strengthened my understanding of backend development fundament
 
 ## 11. GitHub Repository
 
-**Repository:** https://github.com/Mandomanyt/manivenkat5003_lab1
+**Repository:** https://github.com/avinash162007-dev/avinash5030-Lab1
 
-**Deployment:** https://manivenkat5003-lab1.onrender.com/
+**Deployment:** https://avinash5030-lab1.onrender.com/
 
 ---

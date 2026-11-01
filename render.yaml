@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: manivenkat5003-lab1
+    name: avinash5030-lab1
     env: node
     plan: free
     buildCommand: npm install

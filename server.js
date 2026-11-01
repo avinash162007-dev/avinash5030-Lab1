@@ -11,8 +11,8 @@ app.get('/', (req, res) => {
 // Route 2: About page
 app.get('/about', (req, res) => {
     res.status(200).json({
-        name: 'Mani Venkat Sai Sankar Naidu',
-        registrationNumber: "252U1R5003",
+        name: 'Avinash Boodida',
+        registrationNumber: "252U1R5030",
         section: "106 AIDE-2A"
     });
 });
